@@ -27,3 +27,4 @@ public class Build_A_Baddie : MonoBehaviour
         badGuyBrain.Despawn();
     }
 }
+    
